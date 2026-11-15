@@ -11,8 +11,11 @@ id_ed25519*
 secrets.*
 credentials*.json
 .npmrc
-.pypirc
 node_modules/
 __pycache__/
+*.pyc
 .venv/
 venv/
+stegscan_report/
+
+.pypirc
