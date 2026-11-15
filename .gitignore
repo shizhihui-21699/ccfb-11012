@@ -16,3 +16,8 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+
+# 检测工具生成物
+data/
+reports/
+*.pyc
